@@ -1,4 +1,4 @@
-<p align="left">- Java Developer<br>- Connected to Technology<br>- ADS Student at Impacta</p>
+<p align="left">- Java Developer<br>- Connected to Technology<br>- ADS Student at U. Impacta Tech</p>
 
 ###
 
